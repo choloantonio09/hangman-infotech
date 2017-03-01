@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/com.sun.rowset.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jasperreports-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jcalendar-1.4.zip"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jfreechart-1.0.0-rc1.zip"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/jfreechart-1.0.19.zip"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/quaqua.jar"/>
+	<classpathentry kind="lib" path="C:/Users/forprogrammingonly/Desktop/Documents/JAR FILES IN MYSQL/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
